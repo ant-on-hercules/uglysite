@@ -1,0 +1,16 @@
+body {
+	background-image:url('spookyeyes.gif');
+	background-repeat:repeat;
+}
+h1 {
+	color:blue;
+	text-align: center;
+}
+h2 {
+	color:green;
+	text-align: left;
+}
+li { 
+	color:orange;
+	text-align: right;
+}
